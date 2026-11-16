@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+
+# Data directory
+data/
+
+roll_out/
+
+# OS/System files
+.directory
+
+# Model weights
+*.pt
+
+# Train and Play scripts
+play.py
+
+train.py
+
+# Word/Document files
+*.docx
+*.doc
